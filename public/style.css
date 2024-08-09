@@ -7,8 +7,13 @@ body {
 /*homepage*/
 #main {
 	margin: 50px 100px;
-	border: 5px #ff0000 solid;
+	border: 15px solid transparent;
+	border-image-source: url(/images/misc/blt.gif);
+	border-image-repeat: round;
+	background-color: #847c7c;
+	border-image-slice: 30;
 	min-height: 700px;
 	width: 400px;
 	background: #333;
 }
+
