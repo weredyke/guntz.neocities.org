@@ -1,10 +1,14 @@
 body {
-  background-color: black;
+	background: black url('images/background/1.gif');
   color: red;
   font-family: Verdana;
 }
 
 /*homepage*/
 #main {
-	background:'url('images/background/1.gif')'
+	margin: 50px 100px;
+	border: 5px #ff0000 solid;
+	min-height: 700px;
+	width: 400px;
+	background: #333;
 }
