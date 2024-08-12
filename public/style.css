@@ -10,10 +10,9 @@ body {
 	border: 20px solid transparent;
 	border-image-source: url(/images/misc/blt.gif);
 	border-image-repeat: round;
-	background-color: #847c7c;
 	border-image-slice: 21;
 	min-height: 700px;
 	width: 400px;
-	background: #333;
+	background: #222;
 }
 
