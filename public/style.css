@@ -7,7 +7,7 @@ body {
 /*homepage*/
 #main {
 	margin: 50px 100px;
-	border: 20px solid transparent;
+	border: 15px solid transparent;
 	border-image-source: url(/images/misc/blt.gif);
 	border-image-repeat: round;
 	border-image-slice: 21;
@@ -18,7 +18,7 @@ body {
 
 #links {
 	margin: 50px 100px;
-	border: 20px solid transparent;
+	border: 15px solid transparent;
 	border-image-source: url(/images/misc/blt.gif);
 	border-image-repeat: round;
 	border-image-slice: 21;
