@@ -11,7 +11,7 @@ body {
 	border-image-source: url(/images/misc/blt.gif);
 	border-image-repeat: round;
 	border-image-slice: 21;
-	min-height: 700px;
+	min-height: 500px;
 	width: 400px;
 	background: #222;
 }
