@@ -16,3 +16,22 @@ body {
 	background: #222;
 }
 
+#links {
+	margin: 50px 100px;
+	border: 20px solid transparent;
+	border-image-source: url(/images/misc/blt.gif);
+	border-image-repeat: round;
+	border-image-slice: 21;
+	width: 400px;
+	background: #222;
+}
+
+#top {
+	height:20px;
+	width:100%;
+}
+
+#nav {
+	height:50px;
+	width:100%;
+}
