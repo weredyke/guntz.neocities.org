@@ -42,3 +42,11 @@ body {
 	width:100%;
 	background:green;
 }
+
+#nav ul {
+	padding:5px;
+}
+
+#nav ul {
+	margin:5px;
+}
