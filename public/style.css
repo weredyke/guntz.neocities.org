@@ -34,10 +34,11 @@ body {
 	height:20px;
 	width:100%;
 	background:#777;
+	text-align:center;
 }
 
 #nav {
-	height:50px;
+	height:30px;
 	width:100%;
 	background:green;
 }
