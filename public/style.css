@@ -43,6 +43,10 @@ body {
 	background:green;
 }
 
+#nav td {
+	border:#222 solid 5px;
+}
+
 #navw {
 	padding:0px;
 }
