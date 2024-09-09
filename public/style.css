@@ -16,6 +16,10 @@ body {
 	background: #222;
 }
 
+#tab{
+	width:100%;
+}
+
 #links {
 	margin: 50px 100px;
 	border: 15px solid transparent;
